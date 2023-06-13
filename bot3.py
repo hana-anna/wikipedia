@@ -1,4 +1,4 @@
-
+.
 import telebot, wikipedia, re
 bot = telebot.TeleBot('6092992706:AAEUnCytLr91T5Kxnf5GhTnfAcPEBtiwCUc')
 
